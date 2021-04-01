@@ -14,3 +14,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ## Images
 
 ![PCB top](Images/pcb_top.jpg)
+
+### JLCPCB
+
+PCBs can be ordered fully-assembled (besides the pin header) from [JLCPCB](https://jlcpcb.com). Required files are
+[PmodUsbUlpi_cpl_jlc.csv](PmodUsbUlpi_cpl_jlc.csv), [PmodUsbUlpi_bom_jlc.csv](PmodUsbUlpi_cpl_jlc.csv) and
+[Gerber/PmodUsbUlpi.zip](Gerber/PmodUsbUlpi.zip).
